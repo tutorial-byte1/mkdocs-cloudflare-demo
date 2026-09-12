@@ -1,0 +1,8 @@
+site_name: Product Help Center
+site_description: Quick-start documentation for a sample product
+
+theme:
+  name: mkdocs
+
+nav:
+  - Home: index.md
